@@ -1,0 +1,151 @@
+.about{
+  padding-right: 10px;
+}
+
+.about:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.projects{
+  padding-right: 10px;
+}
+
+.projects:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.resume{
+  padding-right: 10px;
+}
+
+.resume:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.contact{
+  padding-right: 10px;
+}
+
+.contact:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.about-keyword{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Harsimar-Singh{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 600px;
+  display: inline-block;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}
+
+.intro,.intro-2{
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 450px;
+  display: inline-block;
+}
+
+.intro-3{
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 560px;
+  display: inline-block;
+}
+
+.intro-4{
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 300px;
+  display: inline-block;
+  padding-top: 30px;
+}
+
+.contact-info{
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 550px;
+  display: inline-block;
+  padding-top: 20px;
+}
+
+.here{
+  color: rgb(20, 134, 172);
+}
+
+.here:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.raining-bullets-image{
+  height: 100%;
+  width: 100%;
+}
+
+.raining-bullets-name{
+  font-size: 25px;
+  font-weight: bold;
+  padding-left: 150px;
+  color: rgb(20, 134, 172);
+}
+
+.raining-bullets-name:hover{
+  cursor: pointer;
+  
+}
+
+
+.contact-link:link,.Harsimar-Singh-link,
+.projects-id-link,.resume-id-link{
+  color: white;
+  text-decoration: none;
+  
+}
+
+.contact-link:visited,.Harsimar-Singh-link:visited,
+.projects-id-link:visited,.resume-id-link:visited{
+  color: white;
+  text-decoration: none;
+}
+
+.contact-link:hover,.Harsimar-Singh-link:hover,
+.projects-id-link:hover,.resume-id-link:hover{
+  text-decoration: underline;
+}
+
+.here-id-link:link,.raining-bullets-link:link,
+.linkedin-link:link,.github-link:link,.resume-link:link,
+.email-link:link{
+  color: rgb(20, 134, 172);
+  text-decoration: none;
+}
+
+.here-id-link:visited,.raining-bullets-link:visited,
+.linkedin-link:visited,.github-link:visited,.resume-link:visited,
+.email-link:visited{
+  color: rgb(20, 134, 172);
+  text-decoration: none;
+}
+
+.here-id-link:hover,.raining-bullets-link:hover,
+.linkedin-link:hover,.github-link:hover,.resume-link:hover,
+.email-link:hover{
+  color: rgb(20, 134, 172);
+  text-decoration: underline;
+}
+
+
+
+
+
